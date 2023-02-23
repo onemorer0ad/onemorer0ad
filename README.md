@@ -6,6 +6,11 @@
 
 Я всегда открыт для новых проектов и возможностей, поэтому, если вы ищете талантливого Frontend разработчика, обращайтесь ко мне! Я буду рад обсудить ваши проекты и помочь вам достичь ваших целей. 
 <div>
-<img src="https://img.shields.io/badge/-HTML-<#808080>"/> <img src="https://img.shields.io/badge/-CSS-<#808080>"/> <img src="https://img.shields.io/badge/-JS-<#808080>"/> <img src="https://img.shields.io/badge/-TS-<#808080>"/> <img src="https://img.shields.io/badge/-React-<#808080>"/> <img src="https://img.shields.io/badge/-Git-<#808080>"/> <img src="https://img.shields.io/badge/-Bootstrap-<#808080>"/> <img src="https://img.shields.io/badge/-Redux-<#808080>"/>
+<img width=50 height=30 src="https://img.shields.io/badge/-HTML-<#808080>"/> <img width=50 height=30 src="https://img.shields.io/badge/-CSS-<#808080>"/> <img width=40 height=30 src="https://img.shields.io/badge/-JS-<#808080>"/> <img width=40 height=30 src="https://img.shields.io/badge/-TS-<#808080>"/> <img  width=50 height=30 src="https://img.shields.io/badge/-React-<#808080>"/> <img width=50 height=30 src="https://img.shields.io/badge/-Git-<#808080>"/> <img width=50 height=30 src="https://img.shields.io/badge/-Bootstrap-<#808080>"/> <img width=50 height=30 src="https://img.shields.io/badge/-Redux-<#808080>"/>
 
 </div>
+<div>Contacts :
+  constrainpwnz1@gmail.com
+
+ @hellomynameiseugene
+  </div>
